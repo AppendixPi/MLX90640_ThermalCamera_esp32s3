@@ -6,7 +6,7 @@ This repository contains the complete code for a mini thermal camera project usi
 2. [Part 2: Configuring LVGL](https://www.gabrielecalabrese.com/2024/07/09/build-a-mini-thermal-camera-lvgl-9-1-0-esp32s3-part-2/)
 3. [Part 3: Integrating the MLX90640 Sensor]()
 
-![Thermal Camera]()
+![Thermal Camera](https://www.gabrielecalabrese.com/wp-content/uploads/2024/07/DSC06765.jpeg)
 
 Check out the blog for step-by-step instructions and detailed explanations. Happy building!
 
